@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ObeseSquid
 - 👀 I’m interested in learning web-based development
-- 🌱 I’m currently learning the basics through the Odin Project
+- 🌱 I’m currently learning the basics 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
