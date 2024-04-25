@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ObeseSquid
-- 👀 I’m interested in learning web-based development
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning the basics little by little every day 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
