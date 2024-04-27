@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ObeseSquid
+- 👋 Hi, I’m @ObeseSquid!
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning the basics little by little every day: HTML, CSS, JS, PHP, Python and SQL.
 <!--- - 💞️ I’m looking to collaborate on ...
